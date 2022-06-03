@@ -15,7 +15,7 @@
     "@types/node": "7.0.55",
     "@angular/cdk": "5.2.4",
     "@ngrx/entity": "5.2.0",
-    "@angular/core": "5.2.7",
+    "@angular/core": "11.0.5",
     "@angular/http": "5.2.7",
     "@ngrx/effects": "5.2.0",
     "@types/lodash": "4.14.104",
